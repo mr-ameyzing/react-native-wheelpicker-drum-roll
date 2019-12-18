@@ -16,7 +16,7 @@ npm i react-native-wheelpicker-drum-roll --save
 ```
 For apps using RN 0.39 or less, please run
 ```
-npm install --save --save-exact react-native-wheelpicker-drum-roll@1.1.2
+npm install --save --save-exact react-native-wheelpicker-drum-roll@1.0.0
 ```
 Add in settings.gradle
 ```
@@ -25,7 +25,7 @@ project(':react-native-wheelpicker-drum-roll').projectDir = new File(settingsDir
 ```
 Add in app/build.gradle
 ```
-compile project(':react-native-wheelpicker-drum-roll')
+implementation project(':react-native-wheelpicker-drum-roll')
 ```
 Modify MainApplication
 ```
