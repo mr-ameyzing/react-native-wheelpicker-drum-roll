@@ -1,4 +1,4 @@
-# react-native-wheelpicker
+# react-native-wheelpicker-drum-roll
 [![npm version](http://img.shields.io/npm/v/react-native-wheelpicker.svg?style=flat-square)](https://npmjs.org/package/react-native-wheelpicker "View this project on npm")
 [![npm version](http://img.shields.io/npm/dm/react-native-wheelpicker.svg?style=flat-square)](https://npmjs.org/package/react-native-wheelpicker "View this project on npm")
 
@@ -14,20 +14,20 @@ Run command
 
 For apps using RN 0.40 or higher, please run
 ```
-npm i react-native-wheelpicker --save
+npm i react-native-wheelpicker-drum-roll --save
 ```
 For apps using RN 0.39 or less, please run
 ```
-npm install --save --save-exact react-native-wheelpicker@1.1.2
+npm install --save --save-exact react-native-wheelpicker-drum-roll@1.1.2
 ```
 Add in settings.gradle
 ```
-include ':react-native-wheelpicker'
-project(':react-native-wheelpicker').projectDir = new File(settingsDir, '../node_modules/react-native-wheelpicker/android')
+include ':react-native-wheelpicker-drum-roll'
+project(':react-native-wheelpicker-drum-roll').projectDir = new File(settingsDir, '../node_modules/react-native-wheelpicker-drum-roll/android')
 ```
 Add in app/build.gradle
 ```
-compile project(':react-native-wheelpicker')
+compile project(':react-native-wheelpicker-drum-roll')
 ```
 Modify MainApplication
 ```
@@ -52,7 +52,7 @@ import {
 } from 'react-native';
 
 
-import Picker from 'react-native-wheelpicker'
+import Picker from 'react-native-wheelpicker-drum-roll'
 var PickerItem = Picker.Item;
 
 export default class App extends Component<{}> {

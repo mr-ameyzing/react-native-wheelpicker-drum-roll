@@ -1,5 +1,5 @@
 {
-  "name": "react-native-wheelpicker",
+  "name": "react-native-wheelpicker-drum-roll",
   "version": "1.0.0",
   "description": "React native cross platform picker.",
   "main": "index.js",
@@ -8,18 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gargankita/react-native-wheelpicker.git"
+    "url": "https://github.com/gargankita/react-native-wheelpicker-drum-roll.git"
   },
   "keywords": [
     "react-native",
     "picker",
-	"wheel"
+    "wheel",
+    "drum",
+    "roll"
   ],
   "author": "Ankita Garg",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gargankita/react-native-wheelpicker/issues"
+    "url": "https://github.com/gargankita/react-native-wheelpicker-drum-roll/issues"
   },
-  "homepage": "https://github.com/gargankita/react-native-wheelpicker#readme",
+  "homepage": "https://github.com/gargankita/react-native-wheelpicker-drum-roll#readme",
   "dependencies": {}
 }
