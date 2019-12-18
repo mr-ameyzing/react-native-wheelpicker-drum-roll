@@ -1,6 +1,4 @@
 # react-native-wheelpicker-drum-roll
-[![npm version](http://img.shields.io/npm/v/react-native-wheelpicker.svg?style=flat-square)](https://npmjs.org/package/react-native-wheelpicker "View this project on npm")
-[![npm version](http://img.shields.io/npm/dm/react-native-wheelpicker.svg?style=flat-square)](https://npmjs.org/package/react-native-wheelpicker "View this project on npm")
 
 ## Introduction
 Cross platform Picker component based on React-native.
